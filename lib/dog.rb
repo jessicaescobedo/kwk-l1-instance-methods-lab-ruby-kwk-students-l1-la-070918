@@ -10,3 +10,4 @@ def initialize(bark,sit)
 end 
 
 
+
