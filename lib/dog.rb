@@ -10,5 +10,5 @@ end
 
 dog_action = Dog.new("Woof!","The Dog is sitting")
 
-puts dog_action_one.bark
-puts dog_action_two.sit 
+puts dog_action.bark
+puts dog_action.sit 
