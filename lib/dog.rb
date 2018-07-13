@@ -5,7 +5,6 @@ class Dog
 def initialize(bark,sit)
   @bark = bark
   @sit = sit 
-  end 
 end 
 
 dog_bark = Dog.new("Woof!")
