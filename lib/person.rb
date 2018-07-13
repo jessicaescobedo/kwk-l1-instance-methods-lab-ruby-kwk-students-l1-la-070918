@@ -10,5 +10,5 @@ end
 
 person_action = Person.new("Hello World!","The Person is walking.")
 
-puts person_action.bark
-puts person_action.sit 
+puts person_action.talk
+puts person_action.walk
