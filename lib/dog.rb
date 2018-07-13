@@ -9,5 +9,5 @@ def initialize(bark,sit)
   end 
 end 
 
-dog_action = ""
+dog_action = Dog.new()
 
