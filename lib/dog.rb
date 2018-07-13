@@ -12,5 +12,7 @@ end
 dog_action = Dog.new("Woof!")
 dog_action = Dog.new("The Dog is sitting")
 
-puts dog_action
+puts dog_action.bark
+puts dog_action.sit 
+
 
