@@ -8,8 +8,7 @@ def initialize(bark,sit)
   end 
 end 
 
-dog_action_one = Dog.new("Woof!")
-dog_action_two = Dog.new("The Dog is sitting")
+dog_action = Dog.new("Woof!","The Dog is sitting")
 
 puts dog_action_one.bark
 puts dog_action_two.sit 
